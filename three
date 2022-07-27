@@ -1,0 +1,3 @@
+s = 'Hola este es mi tercer ejercicio en Python'
+print (s)
+print (type(s))
