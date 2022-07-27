@@ -1,0 +1,5 @@
+s = 'Hola este es mi tercer ejercicio en Python'
+print (s)
+print (type(s))
+s = 'Hola este es mi tercer ejercicio en Python, ahora vamos a modificar la variabale'
+print (s)
